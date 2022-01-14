@@ -16,7 +16,7 @@
 <a href="https://twitter.com/mbma1998badie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mbma1998badie" height="30" width="40" /></a>
 <a href="https://fb.com/mbmabadie98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mbmabadie98" height="30" width="40" /></a>
 <a href="https://instagram.com/mbmabadie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mbmabadie" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uclzy6xwwturu8l2i11rnvfq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uclzy6xwwturu8l2i11rnvfq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCLZy6xWwtUrU8l2I11RnVFQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uclzy6xwwturu8l2i11rnvfq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
