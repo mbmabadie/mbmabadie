@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohammad Badia Alfathi</h1>
-<h3 align="center">A Master's student in Machine learning and Data mining. <br>I graduated from Computer engineering with an honor.</h3>
+<h1 align="center">Hi 👋, I'm Badia Alfathi</h1>
+<h3 align="center">A Data & business Analyst Engineer. <br> I have a Master's degree in Machine Learning and Data Mining and a diploma in Computer & Data Science from MIT.</h3>
 
 - 🌱 I’m currently learning **more about Artificial intelligence, and Machine learning.**
 
