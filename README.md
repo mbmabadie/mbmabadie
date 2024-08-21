@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mbmabadie@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mbmabadie](https://www.linkedin.com/in/badia-alfathi/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/badia-alfathi](https://www.linkedin.com/in/badia-alfathi/)
 
 
 <h3 align="left">Languages and Tools:</h3>
