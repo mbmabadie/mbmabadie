@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **more about Artificial intelligence, and Machine learning.**
 
-- 👨‍💻 My experience is available at [https://mbmabadie.github.io/resume](https://mbmabadie.github.io/resume)
+- 👨‍💻 My experience is available at [https://mbmabadie.github.io/resume](https://badia-alfathi-resume.netlify.app/)
 
 - 📝 I regularly write articles on [https://www.edseed.me/author/mohammad-badia-alfathi/](https://www.edseed.me/author/mohammad-badia-alfathi/)
 
